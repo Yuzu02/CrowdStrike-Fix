@@ -24,6 +24,7 @@ CrowdStrike is a security solution that protects endpoints against threats. Howe
    - "Startup Settings"
    - "Restart"
    - Then, select the option for Safe Mode.
+
 3. To enter the Windows Recovery Environment, follow a similar process and select:
    - "Troubleshoot"
    - "Advanced options"
@@ -38,5 +39,3 @@ CrowdStrike is a security solution that protects endpoints against threats. Howe
    ```powershell
    .\CrowdStrike-fix.ps1
    ```
-
-I hope this helps to at least automate the issue to some extent.
